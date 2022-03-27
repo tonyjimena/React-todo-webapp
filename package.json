@@ -1,0 +1,20 @@
+{
+  "name": "react-cea4q2",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@firebase/app": "^0.7.20",
+    "firebase": "9.6.10",
+    "react": "18.0.0-rc.3-next-033fe52b4-20220325",
+    "react-dom": "18.0.0-rc.3-next-033fe52b4-20220325"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "react-scripts": "latest"
+  }
+}
