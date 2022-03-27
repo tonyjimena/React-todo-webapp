@@ -1,3 +1,4 @@
-# todos-usereducer-hook-start-ocyd4b
+# React Todo Webapp
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/todos-usereducer-hook-start-ocyd4b)
+- useReducer
+- Firebase
