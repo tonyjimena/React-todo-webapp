@@ -1,12 +1,11 @@
 {
-  "name": "react-cea4q2",
+  "name": "react-todo-webapp",
   "version": "0.0.0",
   "private": true,
   "dependencies": {
-    "@firebase/app": "^0.7.20",
-    "firebase": "9.6.10",
-    "react": "18.0.0-rc.3-next-033fe52b4-20220325",
-    "react-dom": "18.0.0-rc.3-next-033fe52b4-20220325"
+    "firebase": "^9.17.1",
+    "react": "18.0.0",
+    "react-dom": "18.0.0"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -16,5 +15,17 @@
   },
   "devDependencies": {
     "react-scripts": "latest"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
   }
 }
